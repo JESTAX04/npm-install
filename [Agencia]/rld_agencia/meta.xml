@@ -1,0 +1,21 @@
+<meta>
+    
+    <info author="Caio" name="Agencia" />
+    <min_mta_version client="1.5.8-9.20979"></min_mta_version>
+    
+    <script src="caioG.lua" type="shared" />
+    <script src="caioC.lua" type="client" cache="false" />
+    <script src="caioS.lua" type="server" />
+    
+    <file src="assets/gfx/empregos/1.png" />
+    <file src="assets/gfx/empregos/2.png" />
+    <file src="assets/gfx/empregos/3.png" />
+    <file src="assets/gfx/empregos/4.png" />
+    <file src="assets/gfx/empregos/5.png" />
+    <file src="assets/gfx/map.png" />
+    <file src="assets/gfx/point.png" />
+    
+    <file src="assets/fonts/regular.ttf" />
+    <file src="assets/fonts/semibold.ttf" />
+    
+</meta>

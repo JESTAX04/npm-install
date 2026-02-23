@@ -1,0 +1,8 @@
+<meta>
+    <script src="gMeloSCR.lua" type="shared" />
+    <script src="sMeloSCR.lua" type="server" />
+    <script src="cMeloSCR.lua" type="client" cache="false"/>
+
+    <min_mta_version client="1.5.8-9.20788" server="1.5.4-9.11342" />
+
+</meta>

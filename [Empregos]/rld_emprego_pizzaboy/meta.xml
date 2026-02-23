@@ -1,0 +1,5 @@
+<meta>
+    <info author="ber#8813" />
+	<script src="server.lua" type="server" />
+	<script src="edit.lua" type="shared" />
+</meta>

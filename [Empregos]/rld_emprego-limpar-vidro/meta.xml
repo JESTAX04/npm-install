@@ -1,0 +1,33 @@
+<meta>
+	<script src="sourceC.lua" type="client" cache="false"/>
+	<script src="sourceS.lua" type="server"/>
+
+	<file src="files/platform.txd" cache="false"/>
+	<file src="files/platform.dff" cache="false"/>
+	<file src="files/platform.col" cache="false"/>
+
+	<file src="files/platform_head.txd" cache="false"/>
+	<file src="files/platform_head.dff" cache="false"/>
+	<file src="files/platform_head.col" cache="false"/>
+
+	<file src="files/Roboto.ttf" cache="false"/>
+
+	<file src="files/arrow.png" cache="false"/>
+	<file src="files/dirty1.png" cache="false"/>
+	<file src="files/dirty2.png" cache="false"/>
+	<file src="files/dirty3.png" cache="false"/>
+	<file src="files/dirty4.png" cache="false"/>
+	<file src="files/dirty5.png" cache="false"/>
+	<file src="files/base.png" cache="false"/>
+
+	<file src="files/wiping.mp3" cache="false"/>
+	<file src="files/spraying.mp3" cache="false"/>
+	<file src="files/hydrloop.mp3" cache="false"/>
+
+	<file src="files/mask.png" cache="false"/>
+	<file src="files/foam.png" cache="false"/>
+	<file src="files/wiper.png" cache="false"/>
+	<file src="files/spray.png" cache="false"/>
+
+	<min_mta_version client="1.5.7" server="1.5.7" />
+</meta>
