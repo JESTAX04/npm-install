@@ -1,0 +1,11 @@
+<meta>
+
+	<script src="client.lua" type="client" cache="false"/>
+	<script src="shared.lua" type="client" cache="false"/>
+
+	<file src="images/map.jpg"/>		
+    <file src="images/arrow.png" />
+
+    <export function = 'renderingMap' type = 'client' />
+	
+</meta>
