@@ -1,0 +1,42 @@
+<meta>
+	<!-- Auto generated using VSCode MTA:SA Lua by Subtixx -->
+	<info author="agatreix" type="script" name="crp_jobmanager" version="0.1.0" />
+	<script src="cfg.lua" type="shared" cache='false'/>
+
+	<script src="src/client/main.lua" type="client" cache='false' />
+	<script src="src/server/main.lua" type="both" />
+	<script src="src/utils/utilsC.lua" type="client" cache='false'/>
+
+	<export function='getMembersInGroup' type='server'/>
+	<export function='getGroupLider' type='server'/>
+	<export function='getGroupMeta' type='server'/>
+	<export function='setGroupMeta' type='server'/>
+	<export function='updateGroupMeta' type='server'/>
+
+	<file src="src/assets/bg.png" cache='false'/>
+	<file src="src/assets/bg2.png" cache='false'/>
+	<file src="src/assets/fonts/Poppins-Bold.ttf" />
+	<file src="src/assets/fonts/Poppins-Medium.ttf" />
+	<file src="src/assets/fonts/Poppins-Regular.ttf" />
+	<file src="src/assets/fonts/Poppins-SemiBold.ttf" />
+	<file src="src/assets/fonts/Roboto-Bold.ttf" />
+	<file src="src/assets/fonts/Roboto-Medium.ttf" />
+	<file src="src/assets/fonts/Roboto-Regular.ttf" />
+	<file src="src/assets/general.png" cache='false'/>
+	<file src="src/assets/groups.png" cache='false'/>
+	<file src="src/assets/info.png" cache='false'/>
+	<file src="src/assets/jobs/fish.png" cache='false'/>
+	<file src="src/assets/jobs.png" cache='false'/>
+	<file src="src/assets/leader.png" cache='false'/>
+	<file src="src/assets/member.png" cache='false'/>
+	<file src="src/assets/notify/express.png" cache='false'/>
+	<file src="src/assets/notify/no.png" cache='false'/>
+	<file src="src/assets/notify/yes.png" cache='false'/>
+	<file src="src/assets/notify/jobcenter.png" cache='false'/>
+	<file src="src/assets/notify/trashman.png" cache='false'/>
+	<file src="src/assets/trash.png" cache='false'/>
+	<file src="src/assets/work.png" cache='false'/>
+	<file src="src/assets/jobs/express.png" cache='false'/>
+	<file src="src/assets/jobs/oxy.png" cache='false'/>
+	<file src="src/assets/jobs/trashman.png" cache='false'/>
+</meta>
